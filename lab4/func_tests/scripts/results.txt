@@ -1,0 +1,1 @@
+Insert xa: Insert ya: Insert xb: Insert yb: Insert xc: Insert yc: Triangle does not exist.
